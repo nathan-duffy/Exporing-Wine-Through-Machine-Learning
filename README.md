@@ -3,7 +3,7 @@
 Data from https://www.kaggle.com/zynicide/wine-reviews
 <br>
 <br>
-Code: Check out my completed Jupyter Notebook above (Wine ML.ipynb)
+**Code:** Check out my completed Jupyter Notebook above (Wine ML.ipynb)
 
 **Project Outline:**
 <br>
