@@ -1,7 +1,9 @@
 ## Exporing Wine Through Machine Learning
 
 Data from https://www.kaggle.com/zynicide/wine-reviews
-<br>Code: Check out my final Jupyter Notebook above (Wine ML.ipynb)
+<br>
+<br>
+Code: Check out my final Jupyter Notebook above (Wine ML.ipynb)
 
 **Project Outline:**
 <br>
