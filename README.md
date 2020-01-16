@@ -3,6 +3,8 @@
 Data from https://www.kaggle.com/zynicide/wine-reviews
 <br>
 <br>
+**Overview:** Inspired by my interest in the educational aspects of wine tasting, I decided to use machine learning methods for prediction and exploration of an extensive dataset on the subject.  First I implemented a logistic regression to predict variety based on description. Next, a K-Means clustering model to group the wines into clusters that attempt to generally describe each unique variety.
+
 **Code:** Check out my completed Jupyter Notebook above (Wine ML.ipynb)
 
 **Project Outline:**
